@@ -1,3 +1,10 @@
+<!--
+Copyright (c) 2026 qbitOS / ugrad.ai. All rights reserved.
+SPDX-License-Identifier: Apache-2.0
+Source: https://github.com/qbitOS/qbitos-steno
+Provenance: baseline-cross-implementation-seed
+-->
+
 # qbitos{steno}
 
 Steganographic whitespace codec with encode/decode/strip pipeline.
@@ -5,6 +12,7 @@ Steganographic whitespace codec with encode/decode/strip pipeline.
 ## Compliance Root
 
 - Canonical policy: `https://github.com/qbitOS/compliance`
+- Canonical policy URL: https://github.com/qbitOS/compliance
 
 ## Cross-Implementation Path
 
