@@ -1,0 +1,23 @@
+# qbitos{steno}
+
+Steganographic whitespace codec with encode/decode/strip pipeline.
+
+## Compliance Root
+
+- Canonical policy: `https://github.com/qbitOS/compliance`
+
+## Cross-Implementation Path
+
+`DAC -> Iron Line -> Prefixes -> Quantum Gutter -> .qbit -> preflight`
+
+## Control Envelope
+
+`DAC/Prefix/Steno/Iron-Line/Preflight/search-history controls`
+
+## Integration Targets
+
+- `qbitos-dac`
+- `qbitos-quantum-prefixes`
+- `qbitos-prefix-engine`
+- `qbitos-preflight`
+- `qbit`
